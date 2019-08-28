@@ -1,5 +1,5 @@
-FROM debian:wheezy
-MAINTAINER Jose Miguel de la Casa <nacicansao@gmail.com>
+FROM ubuntu
+MAINTAINER Andre Mesquita <avmesquita@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
